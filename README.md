@@ -21,7 +21,7 @@ Since 2020, I've been seriously learning programming. However, my journey began 
 
 * <b>Main Languages & tools:</b>
 
-[![Stack](https://skillicons.dev/icons?i=py,django,pycharm,docker,aws,git,sqlite,postgres,mysql,js,html,css,tailwind,bootstrap,md,notion&perline=16)](https://skillicons.dev)
+[![Stack](https://skillicons.dev/icons?i=py,django,pycharm,docker,aws,git,postgres,sqlite,mysql,js,html,css,tailwind,bootstrap,md,notion&perline=16)](https://skillicons.dev)
 
 * Tried:
   
