@@ -25,7 +25,7 @@ Since 2020, I've been seriously learning programming. However, my journey has be
 
 * Tried:
   
-[![Tried](https://skillicons.dev/icons?i=flask,fastapi,react,vue,php,c++)](https://skillicons.dev)
+[![Tried](https://skillicons.dev/icons?i=flask,fastapi,react,vue)](https://skillicons.dev)
 
 ### Badges
 
