@@ -11,7 +11,8 @@ Python Developer
 Since 2020, I've been seriously learning programming. However, my journey has began 8-10 years prior when I created my first HTML page. Later in school, I explored JavaScript, PHP, and C++. However, it wasn't until I encountered Python that I truly fell in love with programming. Currently, I'm mastering Python along with Django.
 
 *   🌍  I'm based in Cracow
-*   🚀  I'm currently working on [PlanDiet](https://github.com/Samekmat/PlanDiet) project refactor.
+*   🚀  I'm currently studying Applied Computer Science on WSEI - Wyższa Szkoła Ekonomii i Informatyki w Krakowie.
+*   🏫  Here is my college github -> [![github](https://skillicons.dev/icons?i=github)](https://www.github.com/m-samek)
 *   ⚡  Beside programming I'm interested in any sport activities, games and developing myself in various directions
 
     
