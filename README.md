@@ -33,12 +33,3 @@ Since 2020, I've been seriously learning programming. However, my journey began 
 ---
 
 ## 🏆 Top Repositories
-
-<div align="center">
-  <a href="https://github.com/samekmat/BudgetManager">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=samekmat&repo=BudgetManager&title_color=0891b2&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en&v=1" width="48%" />
-  </a>
-  <a href="https://github.com/samekmat/PlanDiet">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=samekmat&repo=PlanDiet&title_color=0891b2&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en&v=1" width="48%" />
-  </a>
-</div>
